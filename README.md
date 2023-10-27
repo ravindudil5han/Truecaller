@@ -77,7 +77,7 @@ Contributions to this project are welcome. If you encounter any issues or have i
 
 ### License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU v3.0 License. See the [LICENSE](LICENSE) file for details.
 
 ### Disclaimer
 
