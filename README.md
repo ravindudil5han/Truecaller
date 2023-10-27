@@ -22,13 +22,13 @@ Before using this code, ensure you have the following prerequisites installed on
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/truecaller-express.git
+   git clone https://github.com/ravindudil5han/Truecaller.git
    ```
 
 2. Change into the project directory:
 
    ```bash
-   cd truecaller-express
+   cd Truecaller
    ```
 
 3. Install the required dependencies:
